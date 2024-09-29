@@ -1,6 +1,21 @@
-## 🛠️ Installation
+<h1 align="center"> 🛠️ Installation 🛠️ </h1>
 
-### Backup your Existing Configuration
+## Before You Begin
+
+Make sure to check the [Requirements](https://github.com/noobdumbledore/nvimDev/blob/main/.github/README.md#requirements) before proceeding. This ensures your system is properly set up for a smooth installation experience.
+
+Once you've met the necessary requirements, installing **nvimDev** is straightforward.
+</br>
+</br>
+If you are a very beginner, just follow the simple steps given below:
+
+1. Run the commands given in: **Backup your Existing Configuration**
+2. Run the 1st command given in: **Clone Section** (depending on your Operating System)
+3. Run the command in **Getting Started**
+
+</br>
+
+## Backup your Existing Configuration
 
 At first, backup your existing neovim configuration
 </br>
@@ -23,7 +38,7 @@ Mastering manual processes is essential for any programmer!
 </br>
 So, let's take the time to clone the repository manually(it's easy)
 
-### Clone (Linux/MacOS/WSL)
+## Clone (Linux/MacOS/WSL)
 
 - Follow one of the following commands. Either one is fine.
 
@@ -48,7 +63,7 @@ ln -s ~/path/to/nvimDev ~/.config/nvim
 rm -rf ~/.config/nvim/.git
 ```
 
-### Downloading from Releases
+## Downloading from Releases
 
 Like a specific release? Download from previous releases
 
@@ -57,7 +72,7 @@ Like a specific release? Download from previous releases
 - Download the the source code
 - Move the contents of the folder to the nvim repo on your machine
 
-### Getting Started
+## Getting Started
 
 Wanna start 'nviming'? Enter the below command
 
